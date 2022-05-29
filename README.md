@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<img src="https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif" alt="Coder GIF" width="2600">
 
 <!--
 **slawomircieslinski/slawomircieslinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
