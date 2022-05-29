@@ -1,5 +1,12 @@
+<kbd>
+ <img style="border:5px solid black;"  src="https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif" alt="Coder GIF" width="2600">
+</kbd>
+<br></br>
 
-<img src="https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif" alt="Coder GIF" width="2600">
+<a href="https://www.buymeacoffee.com/scieslinski"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="55"></a>
+
+
+
 
 <!--
 **slawomircieslinski/slawomircieslinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
