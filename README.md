@@ -1,5 +1,5 @@
 <kbd>
- <img style="border:5px solid black;"  src="https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif" alt="Coder GIF" width="2600">
+ <img style="border:5px solid black;"  src="https://media.giphy.com/media/DANHDtLtLFJ6Hzmrlu/giphy.gif" alt="Coder GIF" width="600">
 </kbd>
 <br></br>
 
