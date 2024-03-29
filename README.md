@@ -3,7 +3,7 @@
 </kbd>
 <br></br>
 
-<a href="https://www.buymeacoffee.com/scieslinski"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="45"></a>
+<a href="https://www.buymeacoffee.com/scieslinski"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="30"></a>
 
 
 
