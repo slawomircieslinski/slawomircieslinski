@@ -1,9 +1,9 @@
 <kbd>
- <img style="border:5px solid black;"  src="https://64.media.tumblr.com/tumblr_lbw8phlVKq1qdunk8o1_500.gifv" alt="Coder GIF" width="600">
+ <img style="border:5px solid black;"  src="https://64.media.tumblr.com/tumblr_lbw8phlVKq1qdunk8o1_500.gifv" alt="Coder GIF" width="800">
 </kbd>
 <br></br>
 
-<a href="https://www.buymeacoffee.com/scieslinski"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="55"></a>
+<a href="https://www.buymeacoffee.com/scieslinski"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" height="45"></a>
 
 
 
